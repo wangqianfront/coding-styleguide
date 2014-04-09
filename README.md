@@ -1,4 +1,4 @@
-coding-styleguide代码样式规范集
+代码样式规范(集)
 =================
 
 1. __[Google Style Guide](http://code.google.com/p/google-styleguide/)__
