@@ -1,7 +1,7 @@
 coding-styleguide代码样式规范集
 =================
 
-* __[Google Style Guide](http://code.google.com/p/google-styleguide/)__
+1. __[Google Style Guide](http://code.google.com/p/google-styleguide/)__
   * [Objective-C](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml) Style Guide
   * [Python](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html) Style Guide
   * [HTML/CSS](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) Style Guide
@@ -10,7 +10,7 @@ coding-styleguide代码样式规范集
   * [C++](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml) Style Guide
   * [Shell](http://google-styleguide.googlecode.com/svn/trunk/shell.xml) Style Guide
   
-* __[Github Style Guide](https://github.com/styleguide)__
+2. __[Github Style Guide](https://github.com/styleguide)__
   * [CSS](https://github.com/styleguide/css) Styleguide
   * [JavaScript](https://github.com/styleguide/javascript) Styleguide
   * [Ruby](https://github.com/styleguide/ruby) Styleguide
