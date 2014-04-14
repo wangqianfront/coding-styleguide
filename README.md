@@ -15,5 +15,5 @@
   * [JavaScript](https://github.com/styleguide/javascript) Styleguide
   * [Ruby](https://github.com/styleguide/ruby) Styleguide
 
-3. __[NYTimes Style Guide]
+3. __[NYTimes Style Guide](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/?_php=true&_type=blogs&_r=0)__
   * [Objective-C](https://github.com/NYTimes/objective-c-style-guide) Style Guide
