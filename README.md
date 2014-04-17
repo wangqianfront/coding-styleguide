@@ -9,7 +9,8 @@
   * [Java](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html) Style
   * [C++](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml) Style Guide
   * [Shell](http://google-styleguide.googlecode.com/svn/trunk/shell.xml) Style Guide
-  
+  * [Java 2 Obj](http://code.google.com/p/j2objc/wiki/JavaConversions) Style Guide
+
 2. __[Github Style Guide](https://github.com/styleguide)__
   * [CSS](https://github.com/styleguide/css) Styleguide
   * [JavaScript](https://github.com/styleguide/javascript) Styleguide
@@ -17,3 +18,10 @@
 
 3. __[NYTimes Style Guide](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/?_php=true&_type=blogs&_r=0)__
   * [Objective-C](https://github.com/NYTimes/objective-c-style-guide) Style Guide
+
+
+
+
+#####The MIT License (MIT)######
+
+Copyright (c) 2014 Front Wang
