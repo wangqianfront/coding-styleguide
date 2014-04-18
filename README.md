@@ -19,7 +19,8 @@
 3. __[NYTimes Style Guide](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/?_php=true&_type=blogs&_r=0)__
   * [Objective-C](https://github.com/NYTimes/objective-c-style-guide) Style Guide
 
-
+4. __Others__
+  * [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
 
 
 #####The MIT License (MIT)######
