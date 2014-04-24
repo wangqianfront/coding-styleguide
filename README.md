@@ -21,7 +21,9 @@
 
 4. __Others__
   * [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
-  * [node-style-guide])(https://github.com/cnodejs/nodeclub)
+  * [node-style-guide](https://github.com/cnodejs/nodeclub)
+
+
 
 
 #####The MIT License (MIT)######
