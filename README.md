@@ -26,6 +26,6 @@
 
 
 
-#####The MIT License (MIT)######
+## License 
 
-Copyright (c) 2014 Front Wang
+MIT License @Copyright (c) 2014 Front Wang
