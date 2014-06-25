@@ -22,9 +22,11 @@
 4. __Others__
   * [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
   * [node-style-guide](https://github.com/cnodejs/nodeclub)
-
-
-
+  * [npm-style-guide](https://www.npmjs.org/doc/coding-style.html)
+  * [java-style-guide](http://geosoft.no/development/javastyle.html#Layout%20of%20the%20Recommendations)
+  * [django-style-guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+  * [php-style-guide](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
+  * [android-style-guide](https://source.android.com/source/code-style.html)
 
 ## License 
 
