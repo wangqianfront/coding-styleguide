@@ -12,7 +12,7 @@
   * [Java 2 Obj](http://code.google.com/p/j2objc/wiki/JavaConversions) Style Guide
   
 2. __[Alibaba Style Guide] (https://github.com/wangqianfront/coding-styleguide/blob/master/阿里巴巴Java开发手册.pdf)__
-  * [JAVA] (https://github.com/wangqianfront/coding-styleguide/blob/master/阿里巴巴Java开发手册.pdf)
+  * [JAVA](https://github.com/wangqianfront/coding-styleguide/blob/master/阿里巴巴Java开发手册.pdf)
   
 3. __[Github Style Guide](https://github.com/styleguide)__
   * [CSS](https://github.com/styleguide/css) Styleguide
