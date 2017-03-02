@@ -2,13 +2,13 @@
 =================
 
 1. __[Google Style Guide](http://code.google.com/p/google-styleguide/)__
-  * [Objective-C](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml) Style Guide
-  * [Python](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html) Style Guide
-  * [HTML/CSS](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) Style Guide
-  * [JavaScript](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) Style Guide
-  * [Java](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html) Style
-  * [C++](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml) Style Guide
-  * [Shell](http://google-styleguide.googlecode.com/svn/trunk/shell.xml) Style Guide
+  * [Objective-C](https://google.github.io/styleguide/objcguide.xml) Style Guide
+  * [Python](https://google.github.io/styleguide/pyguide.html) Style Guide
+  * [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html) Style Guide
+  * [JavaScript](https://google.github.io/styleguide/jsguide.html) Style Guide
+  * [Java](https://google.github.io/styleguide/javaguide.html) Style
+  * [C++](https://google.github.io/styleguide/cppguide.html) Style Guide
+  * [Shell](https://google.github.io/styleguide/shell.xml) Style Guide
   * [Java 2 Obj](http://code.google.com/p/j2objc/wiki/JavaConversions) Style Guide
 
 2. __[Github Style Guide](https://github.com/styleguide)__
